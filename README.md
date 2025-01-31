@@ -109,6 +109,14 @@ These metrics complement each other by providing a comprehensive evaluation of t
 
 For a complete example, refer to the `example.ipynb` notebook in this repository. It demonstrates how to use the utilities step-by-step with sample text.
 
+## Conclusion
+
+In this repository, we have provided a comprehensive set of tools for anonymizing, pseudonymizing, and simplifying Dutch text using advanced NLP techniques. By leveraging the functionalities in `anonymization_utils.py`, users can effectively protect sensitive information while maintaining the readability and integrity of the text. The example provided in `example.ipynb` demonstrates the practical application of these techniques, showcasing their effectiveness through various evaluation metrics.
+
+These tools are particularly relevant in domains where privacy and data protection are paramount, such as healthcare, legal, and customer service industries. By ensuring that sensitive information is anonymized or pseudonymized, organizations can comply with data protection regulations while still utilizing valuable textual data for analysis and processing.
+
+Overall, the combination of anonymization, pseudonymization, and text simplification techniques presented in this repository offers a robust solution for handling sensitive information in Dutch texts, making it a valuable resource for researchers and practitioners in the field of natural language processing and data privacy.
+
 ## Sources
 
 Microsoft. (n.d.). Presidio Pseudonymization. Retrieved from https://microsoft.github.io/presidio/samples/python/pseudonomyzation/
