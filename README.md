@@ -144,3 +144,5 @@ Marques, J. F., & Bernardino, J. (2020). Analysis of Data Anonymization Techniqu
 Yermilov, O., Raheja, V., & Chernodub, A. (2023). Privacy-and utility-preserving NLP with anonymized data: A case study of pseudonymization. arXiv preprint arXiv:2306.05561.
 
 Olatunji, I. E., Rauch, J., Katzensteiner, M., & Khosla, M. (2022). A review of anonymization for healthcare data. Big Data. Mary Ann Liebert, Inc.
+
+Minh, P. Q. N. (2018). A feature-based model for nested named-entity recognition at VLSP-2018 ner evaluation campaign. arXiv preprint arXiv:1803.08463.
