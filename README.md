@@ -111,17 +111,30 @@ For a complete example, refer to the `example.ipynb` notebook in this repository
 
 ## Sources
 
-- [Presidio Pseudonymization](https://microsoft.github.io/presidio/samples/python/pseudonomyzation/)
-- [spaCy Documentation](https://spacy.io)
-- [UL2-large-Dutch-Simplification-MAI-2023 Model](https://huggingface.co/BramVanroy/ul2-large-dutch-simplification-mai-2023)
-- [Optimizing Statistical Machine Translation for Text Simplification](https://www.aclweb.org/anthology/Q16-1029)
-- [Presidio Pseudonymization](https://microsoft.github.io/presidio/samples/python/pseudonomyzation/)
-- [spaCy Models for Dutch](https://spacy.io/models/nl)
-- [Document-Level Text Simplification: Dataset, Criteria and Baseline](https://arxiv.org/abs/2110.05071)
-- [Project Jupyter](https://jupyter.org/)
-- [Matplotlib](https://matplotlib.org/)
-- [A Review of Research-based Automatic Text Simplification Tools](https://aclanthology.org/2023.ranlp-1.36.pdf)
-- Pseudonymization of patient identifiers for translational research
-- Analysis of Data Anonymization Techniques
-- Privacy-and utility-preserving NLP with anonymized data: A case study of pseudonymization
-- A review of anonymization for healthcare data
+Microsoft. (n.d.). Presidio Pseudonymization. Retrieved from https://microsoft.github.io/presidio/samples/python/pseudonomyzation/
+
+Explosion AI. (n.d.). spaCy Documentation. Retrieved from https://spacy.io
+
+Hugging Face. (n.d.). UL2-large-Dutch-Simplification-MAI-2023 Model. Retrieved from https://huggingface.co/BramVanroy/ul2-large-dutch-simplification-mai-2023
+
+Xu, W., Napoles, C., Pavlick, E., Chen, Q., & Callison-Burch, C. (2016). Optimizing Statistical Machine Translation for Text Simplification. Transactions of the Association for Computational Linguistics, 4, 401-415. Retrieved from https://www.aclweb.org/anthology/Q16-1029
+
+Microsoft. (n.d.). Presidio Pseudonymization. Retrieved December 5, 2024, from https://microsoft.github.io/presidio/samples/python/pseudonomyzation/
+
+Explosion AI. (n.d.). spaCy Models for Dutch. Retrieved December 5, 2024, from https://spacy.io/models/nl
+
+Sun, R., Jin, H., & Wan, X. (2021). Document-Level Text Simplification: Dataset, Criteria and Baseline. CoRR, abs/2110.05071. Retrieved from https://arxiv.org/abs/2110.05071
+
+Project Jupyter. (n.d.). Retrieved December 5, 2024, from https://jupyter.org/
+
+Matplotlib. (n.d.). Retrieved December 5, 2024, from https://matplotlib.org/
+
+Espinosa-Zaragoza, I., Abreu-Salas, J., Lloret, E., Moreda, P., & Palomar, M. (2023). A Review of Research-based Automatic Text Simplification Tools. In Proceedings of the International Conference on Recent Advances in Natural Language Processing (RANLP 2023). Association for Computational Linguistics. Retrieved from https://aclanthology.org/2023.ranlp-1.36.pdf
+
+Aamot, H., Kohl, C. D., Richter, D., & Knaup-Gregori, P. (2013). Pseudonymization of patient identifiers for translational research. BMC Medical Informatics and Decision Making, 13, 1-15. Springer.
+
+Marques, J. F., & Bernardino, J. (2020). Analysis of Data Anonymization Techniques. In KEOD (pp. 235-241).
+
+Yermilov, O., Raheja, V., & Chernodub, A. (2023). Privacy-and utility-preserving NLP with anonymized data: A case study of pseudonymization. arXiv preprint arXiv:2306.05561.
+
+Olatunji, I. E., Rauch, J., Katzensteiner, M., & Khosla, M. (2022). A review of anonymization for healthcare data. Big Data. Mary Ann Liebert, Inc.
