@@ -119,15 +119,13 @@ Overall, the combination of anonymization, pseudonymization, and text simplifica
 
 ## Sources
 
-Microsoft. (n.d.). Presidio Pseudonymization. Retrieved from https://microsoft.github.io/presidio/samples/python/pseudonomyzation/
+Microsoft. (n.d.). Presidio Pseudonymization. Retrieved from https://microsoft.github.io/presidio/samples/python/pseudonymization/
 
 Explosion AI. (n.d.). spaCy Documentation. Retrieved from https://spacy.io
 
 Hugging Face. (n.d.). UL2-large-Dutch-Simplification-MAI-2023 Model. Retrieved from https://huggingface.co/BramVanroy/ul2-large-dutch-simplification-mai-2023
 
 Xu, W., Napoles, C., Pavlick, E., Chen, Q., & Callison-Burch, C. (2016). Optimizing Statistical Machine Translation for Text Simplification. Transactions of the Association for Computational Linguistics, 4, 401-415. Retrieved from https://www.aclweb.org/anthology/Q16-1029
-
-Microsoft. (n.d.). Presidio Pseudonymization. Retrieved December 5, 2024, from https://microsoft.github.io/presidio/samples/python/pseudonomyzation/
 
 Explosion AI. (n.d.). spaCy Models for Dutch. Retrieved December 5, 2024, from https://spacy.io/models/nl
 
