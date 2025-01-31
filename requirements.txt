@@ -1,0 +1,8 @@
+spacy
+presidio-analyzer
+presidio-anonymizer
+transformers
+nltk
+evaluate
+scikit-learn
+matplotlib
