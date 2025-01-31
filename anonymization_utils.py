@@ -9,7 +9,6 @@ from evaluate import load
 from sklearn.metrics import precision_recall_fscore_support
 import matplotlib.pyplot as plt
 from typing import Dict
-from pprint import pprint
 
 # Custom Spacy NLP engine that uses a pre-loaded Spacy model
 class LoadedSpacyNlpEngine(SpacyNlpEngine):
